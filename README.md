@@ -1,4 +1,4 @@
-I created new program and it was made with Win32API and C + glad(OpenGL)
+I a created new program and it was made with Win32API and C + glad(OpenGL)
 
 You Could try this game but it's janky
 
